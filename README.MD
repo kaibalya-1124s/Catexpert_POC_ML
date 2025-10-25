@@ -30,17 +30,3 @@ It analyzes monthly/weakly sell-out data, along with contextual data such as wea
 
 ---
 
-## ⚙️ How to Run Locally
-
-```bash
-# 1️⃣ Clone the repository
-
-
-# 2️⃣ Navigate to the folder
-cd CatExpert_POC
-
-# 3️⃣ Install dependencies
-pip install -r requirements.txt
-
-# 4️⃣ Open Jupyter Notebook
-jupyter notebook
