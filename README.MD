@@ -1,32 +1,56 @@
-# CatExpert_POC - Sales Analytics Platform
+# CatExpert – POC
+## Smart Product Insights & Analytics
 
-This project is a proof of concept inspired by AB InBev's CatExpert tool.
-It analyzes monthly/weakly sell-out data, along with contextual data such as weather, microeconomic indicator, and and consumer insights to understand and predict sales trends.
+### 1. Overview 
 
----------
+CatExpert is a data-driven Proof of Concept that analyzes product performance, identifies business drivers, and provides insights to support faster and more informed decisions.
 
-##  Features
-- Load and merge multiple data sources (sales, weather, macroeconomic)
-- Perform exploratory data analysis (EDA)
-- Build predictive models for sales forecasting
-- Visualize key performance indicators (KPIs)
-- Ready for integration with business dashboards
+### 2. Key Features
 
----------
+Product performance trend analysis
 
-##  Tech Stack
-- Python
-- Pandas, NumPy, Scikit-learn
-- Matplotlib, Seaborn
-- Jupyter Notebook
+Identifies improvement areas across categories
 
---------
-##  Project Workflow
-1. **Data Collection** → Load sales, weather, and macroeconomic data  
-2. **Data Preparation** → Clean and merge datasets by date/week  
-3. **EDA (Exploratory Data Analysis)** → Understand key trends and correlations  
-4. **Modeling** → Train ML models for sales prediction  
-5. **Visualization** → Generate business insights and charts  
+Automated data processing and insights generation
 
----
+Scalable architecture for enterprise analytics
 
+### 3. Tech Stack
+
+Python, Pandas, NumPy, Scikit-learn
+
+Joblib (model persistence)
+
+Git & GitHub (version control)
+
+### 4. Business Value
+
+Quick visibility into product growth trends
+
+Highlights risks and opportunities
+
+Enables data-backed decision making for leadership
+
+### 5. Suggested Project Structure
+catexpert-poc/
+│── data/
+│── notebooks/
+│── src/
+│   ├── models/
+│   ├── pipeline/
+│   └── utils/
+└── README.md
+
+### 6. Future Scope
+
+Streamlit or Power BI dashboard for business users
+
+API-based model deployment
+
+Cloud deployment with CI/CD
+
+### 7. Contact
+
+Your Name
+### KAIBALYA PRASAD JENA
+### https://github.com/kaibalya-1124s/Catexpert_POC_ML

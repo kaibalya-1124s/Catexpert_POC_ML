@@ -1,4 +1,31 @@
+# Virtual environment
 venv/
+.env/
+
+# Python cache
 __pycache__/
 *.pyc
-.env
+
+# IDE/Editor files
+.idea/
+.vscode/
+
+# Model files (Pickle)
+*.pkl
+src/models/*.pkl
+
+# Data files
+Data/*.csv
+!Data/sample_*.csv         # allow sample csv
+!Data/final_prepared.csv   # allow final_prepared only if small enough
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
