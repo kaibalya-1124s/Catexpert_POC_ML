@@ -31,17 +31,8 @@ Highlights risks and opportunities
 
 Enables data-backed decision making for leadership
 
-### 5. Suggested Project Structure
-catexpert-poc/
-│── data/
-│── notebooks/
-│── src/
-│   ├── models/
-│   ├── pipeline/
-│   └── utils/
-└── README.md
 
-### 6. Future Scope
+### 5. Future Scope
 
 Streamlit or Power BI dashboard for business users
 
@@ -49,8 +40,7 @@ API-based model deployment
 
 Cloud deployment with CI/CD
 
-### 7. Contact
+### 6. Contact
 
-Your Name
 ### KAIBALYA PRASAD JENA
 ### https://github.com/kaibalya-1124s/Catexpert_POC_ML
