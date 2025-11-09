@@ -40,6 +40,11 @@ API-based model deployment
 
 Cloud deployment with CI/CD
 
+🔗 **Interactive Visualizations:**  
+View the full dashboard with charts here:  
+👉 [03_Visualization.html](./Notebook/03_Visualization.html)
+
+
 ### 6. Contact
 
 ### KAIBALYA PRASAD JENA
