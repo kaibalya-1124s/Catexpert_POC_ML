@@ -17,7 +17,7 @@ Scalable architecture for enterprise analytics
 
 ### 3. Tech Stack
 
-Python, Pandas, NumPy, Scikit-learn
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Joblib (model persistence)
 
