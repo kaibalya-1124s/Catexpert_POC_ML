@@ -1,9 +1,9 @@
-# CatExpert – POC
+# Assortment_Optimization_System
 ## Smart Product Insights & Analytics
 
 ### 1. Overview 
 
-CatExpert is a data-driven Proof of Concept that analyzes product performance, identifies business drivers, and provides insights to support faster and more informed decisions.
+Assortment Optimization System is a data-driven Proof of Concept that analyzes product performance, identifies business drivers, and provides insights to support faster and more informed decisions.
 
 ### 2. Key Features
 
@@ -43,4 +43,4 @@ Cloud deployment with CI/CD
 ### 6. Contact
 
 ### KAIBALYA PRASAD JENA
-### https://github.com/kaibalya-1124s/Catexpert_POC_ML
+### https://github.com/kaibalya-1124s/Assortment_Optimization_System
